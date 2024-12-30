@@ -1,8 +1,0 @@
-IMDb and Douban top-250 movie datasets:
-- Compare average ratings between platforms
-- Find overlap - movies that appear in both lists
-- Analyze release year distributions
-- Compare genre distributions
-- Identify directors with most appearances
-
-Make appropriate visualizations for each section. You can use any tools.
